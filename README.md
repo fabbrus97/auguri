@@ -1,4 +1,4 @@
-#Auguri
+# Auguri
 Uso: `./fai_auguri [nome festeggiato]`
 
 Stampa una serie di cose a tema "compleanno".
