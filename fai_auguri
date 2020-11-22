@@ -1,0 +1,14 @@
+#!/bin/bash
+
+toilet "Buon compleanno $1 !"
+
+sleep 2
+
+fortune | cowsay
+
+sleep 3
+
+lolcat -a -d 2 torta1
+lolcat -a -d 2 palloncini
+lolcat -a -d 2 torta2
+lolcat -a -d 2 torta3
